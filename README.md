@@ -3,11 +3,6 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
-![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact) |
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangxijing97&langs_count=8)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangxijing97&layout=compact)
 
 <!---
