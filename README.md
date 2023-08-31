@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact) |
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 
