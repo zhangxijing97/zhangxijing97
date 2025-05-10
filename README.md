@@ -1,7 +1,7 @@
 👋 Hi, I’m Xijing Zhang
 
 - 🎓 I’m a Master's student in Computer Software Engineering at Northeastern University
-- 🚗 I’m passionate about full-stack development, Machine Learning, and cloud infrastructure
+- 🚀 Passionate about Full-Stack Development, Machine Learning, and Cloud Infrastructure
 - 🔍 I’m currently learning React and Next.js for full-stack apps
 - 📫 Reach me at: xijing.zhang2@gmail.com or [LinkedIn](https://www.linkedin.com/in/xijing-zhang-406a80178)
 
